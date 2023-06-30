@@ -10,7 +10,12 @@ function App() {
   return (
     <div>
       <div className='image'>
-        <img src={ResumeImage}  alt='resume'/>
+        {/*<img src={ResumeImage}  alt='resume'/>*/}
+        Hello !
+        I am Chhanda Naskar.
+      </div>
+      <div className='button'>
+        <button>Download Resume</button>
       </div>
       <div>
         <Guess />

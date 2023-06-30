@@ -29,6 +29,13 @@
   position: relative;
   display: flex;
   justify-content: center;
-  height: 800px;
+  height: 20px;
+  width: auto;
+}
+.button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: 20px;
   width: auto;
 }
